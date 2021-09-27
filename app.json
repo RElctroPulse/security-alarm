@@ -1,0 +1,6 @@
+{
+    "name": "ESP8266 Security alarm",
+    "description": "A security alarm built using ESP8266",
+    "repository": "https://github.com/RElctroPulse/security-alarm",
+    "keywords": ["esp8266", "security-alarm", "iot"]
+}
