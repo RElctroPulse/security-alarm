@@ -5,7 +5,7 @@ After installing the ESP8266 code on your board, you'll need to set up server an
 ## Setting up the server
 Create an account on Heroku if you don't already have one and use the button below to deploy the server.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RElctroPulse/security-alarm)
 
 You'll be asked to input your app's name.
 
